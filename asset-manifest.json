@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Development-Practice/static/css/main.74677f09.css",
-    "main.js": "/Development-Practice/static/js/main.d5d91a16.js",
+    "main.js": "/Development-Practice/static/js/main.22ed40ce.js",
     "static/media/glx-travel.jpg": "/Development-Practice/static/media/glx-travel.bf6cbaeb65c5601b4b48.jpg",
     "static/media/next.jpg": "/Development-Practice/static/media/next.6820201a7e1bf64c8b2f.jpg",
     "static/media/react.png": "/Development-Practice/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -17,10 +17,10 @@
     "static/media/javascript.png": "/Development-Practice/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Development-Practice/index.html",
     "main.74677f09.css.map": "/Development-Practice/static/css/main.74677f09.css.map",
-    "main.d5d91a16.js.map": "/Development-Practice/static/js/main.d5d91a16.js.map"
+    "main.22ed40ce.js.map": "/Development-Practice/static/js/main.22ed40ce.js.map"
   },
   "entrypoints": [
     "static/css/main.74677f09.css",
-    "static/js/main.d5d91a16.js"
+    "static/js/main.22ed40ce.js"
   ]
 }
