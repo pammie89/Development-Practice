@@ -1,9 +1,12 @@
 {
   "files": {
     "main.css": "/Development-Practice/static/css/main.74677f09.css",
-    "main.js": "/Development-Practice/static/js/main.1022543e.js",
+    "main.js": "/Development-Practice/static/js/main.c50aa1db.js",
+    "static/media/travel-spot.jpg": "/Development-Practice/static/media/travel-spot.6b03a9d033ef745368ff.jpg",
+    "static/media/drive.jpg": "/Development-Practice/static/media/drive.fa044ca46af83b919fc8.jpg",
     "static/media/glx-travel.jpg": "/Development-Practice/static/media/glx-travel.bf6cbaeb65c5601b4b48.jpg",
     "static/media/flexis.jpg": "/Development-Practice/static/media/flexis.1a71617eebff3211d9e6.jpg",
+    "static/media/best-eats.jpg": "/Development-Practice/static/media/best-eats.0cb65876067a6a091727.jpg",
     "static/media/data-analytics.jpg": "/Development-Practice/static/media/data-analytics.3d766b60fc35bcf3031b.jpg",
     "static/media/next.jpg": "/Development-Practice/static/media/next.6820201a7e1bf64c8b2f.jpg",
     "static/media/chore-door.jpg": "/Development-Practice/static/media/chore-door.5f232b6bf53568beffd4.jpg",
@@ -18,10 +21,10 @@
     "static/media/javascript.png": "/Development-Practice/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Development-Practice/index.html",
     "main.74677f09.css.map": "/Development-Practice/static/css/main.74677f09.css.map",
-    "main.1022543e.js.map": "/Development-Practice/static/js/main.1022543e.js.map"
+    "main.c50aa1db.js.map": "/Development-Practice/static/js/main.c50aa1db.js.map"
   },
   "entrypoints": [
     "static/css/main.74677f09.css",
-    "static/js/main.1022543e.js"
+    "static/js/main.c50aa1db.js"
   ]
 }
